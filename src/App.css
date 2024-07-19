@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(images/currencies.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
